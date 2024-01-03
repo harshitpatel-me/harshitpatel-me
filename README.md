@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Harshit!
 
-🚀 Passionate tech innovator exploring the frontiers of code. CEO at Iolyte, CTO at Kalaclap. Certified Blockchain Expert™ | Web3 Enthusiast | Coffee-powered coder ☕ | Crafting digital dreams into reality. Let's connect the dots and build the future! 💻✨ #TechInnovation #Web3 #CodeExplorer
+🚀 Passionate tech innovator exploring the frontiers of code. CEO at [Iolyte](https://www.iolyte.in), CTO at [Kalaclap](https://www.kalaclap.com). Certified Blockchain Expert™ | Web3 Enthusiast | Coffee-powered coder ☕ | Crafting digital dreams into reality. Let's connect the dots and build the future! 💻✨ #TechInnovation #Web3 #CodeExplorer
 <br/>
 <br/>
 
